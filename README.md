@@ -6,3 +6,5 @@ It is also a learning material, so if there is anything that needs to be improve
 # Related Links
 discord https://discord.gg/22nzydmzB7 \
 kakao talk https://open.kakao.com/o/gNp1K1wc
+
+# 시험기간에는 스터디 없어요!
